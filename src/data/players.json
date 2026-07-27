@@ -1415,6 +1415,13 @@
     "roles": ["ST", "CAM"]
   },
   {
+    "id": "che-guiu",
+    "name": "Marc Guiu",
+    "clubId": "chelsea",
+    "number": 15,
+    "roles": ["ST"]
+  },
+  {
     "id": "che-jackson",
     "name": "Nicolas Jackson",
     "clubId": "chelsea",

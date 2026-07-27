@@ -1343,7 +1343,7 @@
     "id": "atm-llorente",
     "name": "Marcos Llorente",
     "clubId": "atletico",
-    "number": 14,
+    "number": 18,
     "roles": ["RB", "RM"]
   },
   { "id": "atm-koke", "name": "Koke", "clubId": "atletico", "number": 6, "roles": ["CM", "CDM"] },

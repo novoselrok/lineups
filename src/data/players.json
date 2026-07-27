@@ -1287,5 +1287,120 @@
     "roles": ["RW", "RB"]
   },
   { "id": "mil-morata", "name": "Alvaro Morata", "clubId": "milan", "number": 7, "roles": ["ST"] },
-  { "id": "mil-abraham", "name": "Tammy Abraham", "clubId": "milan", "number": 90, "roles": ["ST"] }
+  {
+    "id": "mil-abraham",
+    "name": "Tammy Abraham",
+    "clubId": "milan",
+    "number": 90,
+    "roles": ["ST"]
+  },
+
+  { "id": "atm-oblak", "name": "Jan Oblak", "clubId": "atletico", "number": 13, "roles": ["GK"] },
+  { "id": "atm-musso", "name": "Juan Musso", "clubId": "atletico", "number": 1, "roles": ["GK"] },
+  {
+    "id": "atm-lenormand",
+    "name": "Robin Le Normand",
+    "clubId": "atletico",
+    "number": 24,
+    "roles": ["CB"]
+  },
+  {
+    "id": "atm-gimenez",
+    "name": "Jose Maria Gimenez",
+    "clubId": "atletico",
+    "number": 2,
+    "roles": ["CB"]
+  },
+  {
+    "id": "atm-lenglet",
+    "name": "Clement Lenglet",
+    "clubId": "atletico",
+    "number": 15,
+    "roles": ["CB"]
+  },
+  {
+    "id": "atm-reinildo",
+    "name": "Reinildo Mandava",
+    "clubId": "atletico",
+    "number": 23,
+    "roles": ["LB", "CB"]
+  },
+  {
+    "id": "atm-galan",
+    "name": "Javi Galan",
+    "clubId": "atletico",
+    "number": 3,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "atm-molina",
+    "name": "Nahuel Molina",
+    "clubId": "atletico",
+    "number": 16,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "atm-llorente",
+    "name": "Marcos Llorente",
+    "clubId": "atletico",
+    "number": 14,
+    "roles": ["RB", "RM"]
+  },
+  { "id": "atm-koke", "name": "Koke", "clubId": "atletico", "number": 6, "roles": ["CM", "CDM"] },
+  {
+    "id": "atm-depaul",
+    "name": "Rodrigo De Paul",
+    "clubId": "atletico",
+    "number": 5,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "atm-barrios",
+    "name": "Pablo Barrios",
+    "clubId": "atletico",
+    "number": 8,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "atm-gallagher",
+    "name": "Conor Gallagher",
+    "clubId": "atletico",
+    "number": 4,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "atm-lino",
+    "name": "Samuel Lino",
+    "clubId": "atletico",
+    "number": 12,
+    "roles": ["LM", "LW"]
+  },
+  {
+    "id": "atm-simeone",
+    "name": "Giuliano Simeone",
+    "clubId": "atletico",
+    "number": 20,
+    "roles": ["RM", "RW"]
+  },
+  {
+    "id": "atm-griezmann",
+    "name": "Antoine Griezmann",
+    "clubId": "atletico",
+    "number": 7,
+    "roles": ["CF", "CAM"]
+  },
+  {
+    "id": "atm-alvarez",
+    "name": "Julian Alvarez",
+    "clubId": "atletico",
+    "number": 19,
+    "roles": ["ST", "CF"]
+  },
+  {
+    "id": "atm-sorloth",
+    "name": "Alexander Sorloth",
+    "clubId": "atletico",
+    "number": 9,
+    "roles": ["ST"]
+  }
 ]

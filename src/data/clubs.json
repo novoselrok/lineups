@@ -142,5 +142,17 @@
       "number": "#ffffff",
       "pattern": "stripes"
     }
+  },
+  {
+    "id": "atletico",
+    "name": "Atletico Madrid",
+    "shortName": "ATM",
+    "kit": {
+      "shirt": "#cb3524",
+      "sleeve": "#ffffff",
+      "shorts": "#1c2b6b",
+      "number": "#1c2b6b",
+      "pattern": "stripes"
+    }
   }
 ]

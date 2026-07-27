@@ -69,14 +69,9 @@ export function lineupReducer(state: EditorState, action: EditorAction): EditorS
       if (previousSlot === slotId) return state;
 
       if (previousSlot !== undefined) {
-        // The player is already on the pitch: move them, swapping with whoever is in the
-        // target slot so we never duplicate a player or silently drop one.
-        const displaced = assignments[slotId];
-        if (displaced === undefined) {
-          delete assignments[previousSlot];
-        } else {
-          assignments[previousSlot] = displaced;
-        }
+        // The player is already on the pitch: moving them empties the slot they came
+        // from, and whoever was standing in the target slot goes back to the pool.
+        delete assignments[previousSlot];
       }
 
       assignments[slotId] = playerId;

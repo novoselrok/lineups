@@ -1,0 +1,1291 @@
+[
+  { "id": "ars-raya", "name": "David Raya", "clubId": "arsenal", "number": 22, "roles": ["GK"] },
+  {
+    "id": "ars-kepa",
+    "name": "Kepa Arrizabalaga",
+    "clubId": "arsenal",
+    "number": 13,
+    "roles": ["GK"]
+  },
+  {
+    "id": "ars-saliba",
+    "name": "William Saliba",
+    "clubId": "arsenal",
+    "number": 2,
+    "roles": ["CB"]
+  },
+  {
+    "id": "ars-gabriel",
+    "name": "Gabriel Magalhaes",
+    "clubId": "arsenal",
+    "number": 6,
+    "roles": ["CB"]
+  },
+  {
+    "id": "ars-kiwior",
+    "name": "Jakub Kiwior",
+    "clubId": "arsenal",
+    "number": 15,
+    "roles": ["CB", "LB"]
+  },
+  {
+    "id": "ars-calafiori",
+    "name": "Riccardo Calafiori",
+    "clubId": "arsenal",
+    "number": 33,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "ars-timber",
+    "name": "Jurrien Timber",
+    "clubId": "arsenal",
+    "number": 12,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "ars-partey",
+    "name": "Thomas Partey",
+    "clubId": "arsenal",
+    "number": 5,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "ars-rice",
+    "name": "Declan Rice",
+    "clubId": "arsenal",
+    "number": 41,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "ars-odegaard",
+    "name": "Martin Odegaard",
+    "clubId": "arsenal",
+    "number": 8,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "ars-merino",
+    "name": "Mikel Merino",
+    "clubId": "arsenal",
+    "number": 23,
+    "roles": ["CM"]
+  },
+  {
+    "id": "ars-nwaneri",
+    "name": "Ethan Nwaneri",
+    "clubId": "arsenal",
+    "number": 53,
+    "roles": ["CAM", "RW"]
+  },
+  {
+    "id": "ars-trossard",
+    "name": "Leandro Trossard",
+    "clubId": "arsenal",
+    "number": 19,
+    "roles": ["LM", "LW"]
+  },
+  {
+    "id": "ars-saka",
+    "name": "Bukayo Saka",
+    "clubId": "arsenal",
+    "number": 7,
+    "roles": ["RM", "RW"]
+  },
+  {
+    "id": "ars-martinelli",
+    "name": "Gabriel Martinelli",
+    "clubId": "arsenal",
+    "number": 11,
+    "roles": ["LW"]
+  },
+  {
+    "id": "ars-sterling",
+    "name": "Raheem Sterling",
+    "clubId": "arsenal",
+    "number": 30,
+    "roles": ["RW", "LW"]
+  },
+  {
+    "id": "ars-havertz",
+    "name": "Kai Havertz",
+    "clubId": "arsenal",
+    "number": 29,
+    "roles": ["ST", "CAM"]
+  },
+  { "id": "ars-jesus", "name": "Gabriel Jesus", "clubId": "arsenal", "number": 9, "roles": ["ST"] },
+
+  { "id": "mci-ederson", "name": "Ederson", "clubId": "man-city", "number": 31, "roles": ["GK"] },
+  {
+    "id": "mci-ortega",
+    "name": "Stefan Ortega",
+    "clubId": "man-city",
+    "number": 18,
+    "roles": ["GK"]
+  },
+  { "id": "mci-dias", "name": "Ruben Dias", "clubId": "man-city", "number": 3, "roles": ["CB"] },
+  {
+    "id": "mci-akanji",
+    "name": "Manuel Akanji",
+    "clubId": "man-city",
+    "number": 25,
+    "roles": ["CB"]
+  },
+  {
+    "id": "mci-stones",
+    "name": "John Stones",
+    "clubId": "man-city",
+    "number": 5,
+    "roles": ["CB", "RB"]
+  },
+  {
+    "id": "mci-gvardiol",
+    "name": "Josko Gvardiol",
+    "clubId": "man-city",
+    "number": 24,
+    "roles": ["LB", "CB"]
+  },
+  {
+    "id": "mci-walker",
+    "name": "Kyle Walker",
+    "clubId": "man-city",
+    "number": 2,
+    "roles": ["RB", "RWB"]
+  },
+  { "id": "mci-rodri", "name": "Rodri", "clubId": "man-city", "number": 16, "roles": ["CDM"] },
+  {
+    "id": "mci-kovacic",
+    "name": "Mateo Kovacic",
+    "clubId": "man-city",
+    "number": 8,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "mci-bernardo",
+    "name": "Bernardo Silva",
+    "clubId": "man-city",
+    "number": 20,
+    "roles": ["CM", "RW"]
+  },
+  {
+    "id": "mci-nico",
+    "name": "Nico Gonzalez",
+    "clubId": "man-city",
+    "number": 27,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "mci-debruyne",
+    "name": "Kevin De Bruyne",
+    "clubId": "man-city",
+    "number": 17,
+    "roles": ["CAM", "CM"]
+  },
+  {
+    "id": "mci-grealish",
+    "name": "Jack Grealish",
+    "clubId": "man-city",
+    "number": 10,
+    "roles": ["LM", "LW"]
+  },
+  {
+    "id": "mci-savinho",
+    "name": "Savinho",
+    "clubId": "man-city",
+    "number": 26,
+    "roles": ["RM", "RW"]
+  },
+  { "id": "mci-doku", "name": "Jeremy Doku", "clubId": "man-city", "number": 11, "roles": ["LW"] },
+  {
+    "id": "mci-foden",
+    "name": "Phil Foden",
+    "clubId": "man-city",
+    "number": 47,
+    "roles": ["RW", "CAM"]
+  },
+  {
+    "id": "mci-haaland",
+    "name": "Erling Haaland",
+    "clubId": "man-city",
+    "number": 9,
+    "roles": ["ST"]
+  },
+  {
+    "id": "mci-marmoush",
+    "name": "Omar Marmoush",
+    "clubId": "man-city",
+    "number": 14,
+    "roles": ["ST", "LW"]
+  },
+
+  { "id": "liv-alisson", "name": "Alisson", "clubId": "liverpool", "number": 1, "roles": ["GK"] },
+  {
+    "id": "liv-kelleher",
+    "name": "Caoimhin Kelleher",
+    "clubId": "liverpool",
+    "number": 62,
+    "roles": ["GK"]
+  },
+  {
+    "id": "liv-vandijk",
+    "name": "Virgil van Dijk",
+    "clubId": "liverpool",
+    "number": 4,
+    "roles": ["CB"]
+  },
+  {
+    "id": "liv-konate",
+    "name": "Ibrahima Konate",
+    "clubId": "liverpool",
+    "number": 5,
+    "roles": ["CB"]
+  },
+  {
+    "id": "liv-quansah",
+    "name": "Jarell Quansah",
+    "clubId": "liverpool",
+    "number": 78,
+    "roles": ["CB"]
+  },
+  {
+    "id": "liv-robertson",
+    "name": "Andrew Robertson",
+    "clubId": "liverpool",
+    "number": 26,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "liv-trent",
+    "name": "Trent Alexander-Arnold",
+    "clubId": "liverpool",
+    "number": 66,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "liv-gravenberch",
+    "name": "Ryan Gravenberch",
+    "clubId": "liverpool",
+    "number": 38,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "liv-macallister",
+    "name": "Alexis Mac Allister",
+    "clubId": "liverpool",
+    "number": 10,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "liv-jones",
+    "name": "Curtis Jones",
+    "clubId": "liverpool",
+    "number": 17,
+    "roles": ["CM"]
+  },
+  {
+    "id": "liv-endo",
+    "name": "Wataru Endo",
+    "clubId": "liverpool",
+    "number": 3,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "liv-szoboszlai",
+    "name": "Dominik Szoboszlai",
+    "clubId": "liverpool",
+    "number": 8,
+    "roles": ["CAM", "CM"]
+  },
+  {
+    "id": "liv-gakpo",
+    "name": "Cody Gakpo",
+    "clubId": "liverpool",
+    "number": 18,
+    "roles": ["LM", "LW"]
+  },
+  {
+    "id": "liv-elliott",
+    "name": "Harvey Elliott",
+    "clubId": "liverpool",
+    "number": 19,
+    "roles": ["RM", "CM"]
+  },
+  { "id": "liv-diaz", "name": "Luis Diaz", "clubId": "liverpool", "number": 7, "roles": ["LW"] },
+  {
+    "id": "liv-salah",
+    "name": "Mohamed Salah",
+    "clubId": "liverpool",
+    "number": 11,
+    "roles": ["RW"]
+  },
+  {
+    "id": "liv-nunez",
+    "name": "Darwin Nunez",
+    "clubId": "liverpool",
+    "number": 9,
+    "roles": ["ST"]
+  },
+  {
+    "id": "liv-jota",
+    "name": "Diogo Jota",
+    "clubId": "liverpool",
+    "number": 20,
+    "roles": ["ST", "LW"]
+  },
+
+  {
+    "id": "rma-courtois",
+    "name": "Thibaut Courtois",
+    "clubId": "real-madrid",
+    "number": 1,
+    "roles": ["GK"]
+  },
+  {
+    "id": "rma-lunin",
+    "name": "Andriy Lunin",
+    "clubId": "real-madrid",
+    "number": 13,
+    "roles": ["GK"]
+  },
+  {
+    "id": "rma-militao",
+    "name": "Eder Militao",
+    "clubId": "real-madrid",
+    "number": 3,
+    "roles": ["CB"]
+  },
+  {
+    "id": "rma-rudiger",
+    "name": "Antonio Rudiger",
+    "clubId": "real-madrid",
+    "number": 22,
+    "roles": ["CB"]
+  },
+  {
+    "id": "rma-asencio",
+    "name": "Raul Asencio",
+    "clubId": "real-madrid",
+    "number": 35,
+    "roles": ["CB"]
+  },
+  {
+    "id": "rma-mendy",
+    "name": "Ferland Mendy",
+    "clubId": "real-madrid",
+    "number": 23,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "rma-carvajal",
+    "name": "Dani Carvajal",
+    "clubId": "real-madrid",
+    "number": 2,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "rma-tchouameni",
+    "name": "Aurelien Tchouameni",
+    "clubId": "real-madrid",
+    "number": 18,
+    "roles": ["CDM", "CB"]
+  },
+  {
+    "id": "rma-valverde",
+    "name": "Federico Valverde",
+    "clubId": "real-madrid",
+    "number": 15,
+    "roles": ["CM", "RB"]
+  },
+  {
+    "id": "rma-modric",
+    "name": "Luka Modric",
+    "clubId": "real-madrid",
+    "number": 10,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "rma-camavinga",
+    "name": "Eduardo Camavinga",
+    "clubId": "real-madrid",
+    "number": 12,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "rma-bellingham",
+    "name": "Jude Bellingham",
+    "clubId": "real-madrid",
+    "number": 5,
+    "roles": ["CAM", "CM"]
+  },
+  {
+    "id": "rma-brahim",
+    "name": "Brahim Diaz",
+    "clubId": "real-madrid",
+    "number": 21,
+    "roles": ["LM", "RW"]
+  },
+  {
+    "id": "rma-lucasvazquez",
+    "name": "Lucas Vazquez",
+    "clubId": "real-madrid",
+    "number": 17,
+    "roles": ["RM", "RB"]
+  },
+  {
+    "id": "rma-vinicius",
+    "name": "Vinicius Junior",
+    "clubId": "real-madrid",
+    "number": 7,
+    "roles": ["LW"]
+  },
+  {
+    "id": "rma-rodrygo",
+    "name": "Rodrygo",
+    "clubId": "real-madrid",
+    "number": 11,
+    "roles": ["RW", "LW"]
+  },
+  {
+    "id": "rma-mbappe",
+    "name": "Kylian Mbappe",
+    "clubId": "real-madrid",
+    "number": 9,
+    "roles": ["ST", "LW"]
+  },
+  {
+    "id": "rma-endrick",
+    "name": "Endrick",
+    "clubId": "real-madrid",
+    "number": 16,
+    "roles": ["ST"]
+  },
+
+  {
+    "id": "bar-tersteg",
+    "name": "Marc-Andre ter Stegen",
+    "clubId": "barcelona",
+    "number": 1,
+    "roles": ["GK"]
+  },
+  { "id": "bar-pena", "name": "Inaki Pena", "clubId": "barcelona", "number": 13, "roles": ["GK"] },
+  {
+    "id": "bar-cubarsi",
+    "name": "Pau Cubarsi",
+    "clubId": "barcelona",
+    "number": 2,
+    "roles": ["CB"]
+  },
+  {
+    "id": "bar-araujo",
+    "name": "Ronald Araujo",
+    "clubId": "barcelona",
+    "number": 4,
+    "roles": ["CB", "RB"]
+  },
+  {
+    "id": "bar-inigo",
+    "name": "Inigo Martinez",
+    "clubId": "barcelona",
+    "number": 5,
+    "roles": ["CB"]
+  },
+  {
+    "id": "bar-balde",
+    "name": "Alejandro Balde",
+    "clubId": "barcelona",
+    "number": 3,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "bar-kounde",
+    "name": "Jules Kounde",
+    "clubId": "barcelona",
+    "number": 23,
+    "roles": ["RB", "CB"]
+  },
+  {
+    "id": "bar-casado",
+    "name": "Marc Casado",
+    "clubId": "barcelona",
+    "number": 17,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "bar-dejong",
+    "name": "Frenkie de Jong",
+    "clubId": "barcelona",
+    "number": 21,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "bar-pedri",
+    "name": "Pedri",
+    "clubId": "barcelona",
+    "number": 8,
+    "roles": ["CM", "CAM"]
+  },
+  { "id": "bar-gavi", "name": "Gavi", "clubId": "barcelona", "number": 6, "roles": ["CM", "CAM"] },
+  {
+    "id": "bar-olmo",
+    "name": "Dani Olmo",
+    "clubId": "barcelona",
+    "number": 20,
+    "roles": ["CAM", "LW"]
+  },
+  {
+    "id": "bar-ferran",
+    "name": "Ferran Torres",
+    "clubId": "barcelona",
+    "number": 7,
+    "roles": ["LM", "ST"]
+  },
+  {
+    "id": "bar-yamal",
+    "name": "Lamine Yamal",
+    "clubId": "barcelona",
+    "number": 19,
+    "roles": ["RM", "RW"]
+  },
+  {
+    "id": "bar-raphinha",
+    "name": "Raphinha",
+    "clubId": "barcelona",
+    "number": 11,
+    "roles": ["LW", "RW"]
+  },
+  {
+    "id": "bar-torre",
+    "name": "Pablo Torre",
+    "clubId": "barcelona",
+    "number": 14,
+    "roles": ["RW", "CAM"]
+  },
+  {
+    "id": "bar-lewandowski",
+    "name": "Robert Lewandowski",
+    "clubId": "barcelona",
+    "number": 9,
+    "roles": ["ST"]
+  },
+  {
+    "id": "bar-fati",
+    "name": "Ansu Fati",
+    "clubId": "barcelona",
+    "number": 10,
+    "roles": ["ST", "LW"]
+  },
+
+  { "id": "bay-neuer", "name": "Manuel Neuer", "clubId": "bayern", "number": 1, "roles": ["GK"] },
+  {
+    "id": "bay-ulreich",
+    "name": "Sven Ulreich",
+    "clubId": "bayern",
+    "number": 26,
+    "roles": ["GK"]
+  },
+  {
+    "id": "bay-upamecano",
+    "name": "Dayot Upamecano",
+    "clubId": "bayern",
+    "number": 2,
+    "roles": ["CB"]
+  },
+  { "id": "bay-kim", "name": "Kim Min-jae", "clubId": "bayern", "number": 3, "roles": ["CB"] },
+  { "id": "bay-dier", "name": "Eric Dier", "clubId": "bayern", "number": 15, "roles": ["CB"] },
+  {
+    "id": "bay-davies",
+    "name": "Alphonso Davies",
+    "clubId": "bayern",
+    "number": 19,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "bay-laimer",
+    "name": "Konrad Laimer",
+    "clubId": "bayern",
+    "number": 27,
+    "roles": ["RB", "CM"]
+  },
+  {
+    "id": "bay-kimmich",
+    "name": "Joshua Kimmich",
+    "clubId": "bayern",
+    "number": 6,
+    "roles": ["CDM", "RB"]
+  },
+  {
+    "id": "bay-goretzka",
+    "name": "Leon Goretzka",
+    "clubId": "bayern",
+    "number": 8,
+    "roles": ["CM"]
+  },
+  {
+    "id": "bay-pavlovic",
+    "name": "Aleksandar Pavlovic",
+    "clubId": "bayern",
+    "number": 45,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "bay-palhinha",
+    "name": "Joao Palhinha",
+    "clubId": "bayern",
+    "number": 16,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "bay-musiala",
+    "name": "Jamal Musiala",
+    "clubId": "bayern",
+    "number": 42,
+    "roles": ["CAM", "LW"]
+  },
+  {
+    "id": "bay-coman",
+    "name": "Kingsley Coman",
+    "clubId": "bayern",
+    "number": 11,
+    "roles": ["LM", "LW"]
+  },
+  {
+    "id": "bay-gnabry",
+    "name": "Serge Gnabry",
+    "clubId": "bayern",
+    "number": 7,
+    "roles": ["RM", "RW"]
+  },
+  {
+    "id": "bay-olise",
+    "name": "Michael Olise",
+    "clubId": "bayern",
+    "number": 17,
+    "roles": ["LW", "RW"]
+  },
+  {
+    "id": "bay-sane",
+    "name": "Leroy Sane",
+    "clubId": "bayern",
+    "number": 10,
+    "roles": ["RW", "LW"]
+  },
+  { "id": "bay-kane", "name": "Harry Kane", "clubId": "bayern", "number": 9, "roles": ["ST"] },
+  {
+    "id": "bay-muller",
+    "name": "Thomas Muller",
+    "clubId": "bayern",
+    "number": 25,
+    "roles": ["ST", "CAM"]
+  },
+
+  { "id": "bvb-kobel", "name": "Gregor Kobel", "clubId": "dortmund", "number": 1, "roles": ["GK"] },
+  {
+    "id": "bvb-meyer",
+    "name": "Alexander Meyer",
+    "clubId": "dortmund",
+    "number": 33,
+    "roles": ["GK"]
+  },
+  {
+    "id": "bvb-schlotterbeck",
+    "name": "Nico Schlotterbeck",
+    "clubId": "dortmund",
+    "number": 4,
+    "roles": ["CB"]
+  },
+  { "id": "bvb-sule", "name": "Niklas Sule", "clubId": "dortmund", "number": 25, "roles": ["CB"] },
+  {
+    "id": "bvb-anton",
+    "name": "Waldemar Anton",
+    "clubId": "dortmund",
+    "number": 2,
+    "roles": ["CB", "RB"]
+  },
+  {
+    "id": "bvb-bensebaini",
+    "name": "Ramy Bensebaini",
+    "clubId": "dortmund",
+    "number": 5,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "bvb-ryerson",
+    "name": "Julian Ryerson",
+    "clubId": "dortmund",
+    "number": 26,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "bvb-can",
+    "name": "Emre Can",
+    "clubId": "dortmund",
+    "number": 23,
+    "roles": ["CDM", "CB"]
+  },
+  {
+    "id": "bvb-sabitzer",
+    "name": "Marcel Sabitzer",
+    "clubId": "dortmund",
+    "number": 20,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "bvb-gross",
+    "name": "Pascal Gross",
+    "clubId": "dortmund",
+    "number": 13,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "bvb-nmecha",
+    "name": "Felix Nmecha",
+    "clubId": "dortmund",
+    "number": 8,
+    "roles": ["CM"]
+  },
+  {
+    "id": "bvb-brandt",
+    "name": "Julian Brandt",
+    "clubId": "dortmund",
+    "number": 19,
+    "roles": ["CAM", "RM"]
+  },
+  {
+    "id": "bvb-gittens",
+    "name": "Jamie Gittens",
+    "clubId": "dortmund",
+    "number": 43,
+    "roles": ["LM", "LW"]
+  },
+  {
+    "id": "bvb-adeyemi",
+    "name": "Karim Adeyemi",
+    "clubId": "dortmund",
+    "number": 27,
+    "roles": ["RM", "LW"]
+  },
+  {
+    "id": "bvb-beier",
+    "name": "Maximilian Beier",
+    "clubId": "dortmund",
+    "number": 32,
+    "roles": ["LW", "ST"]
+  },
+  {
+    "id": "bvb-malen",
+    "name": "Donyell Malen",
+    "clubId": "dortmund",
+    "number": 21,
+    "roles": ["RW", "ST"]
+  },
+  {
+    "id": "bvb-guirassy",
+    "name": "Serhou Guirassy",
+    "clubId": "dortmund",
+    "number": 9,
+    "roles": ["ST"]
+  },
+  {
+    "id": "bvb-moukoko",
+    "name": "Youssoufa Moukoko",
+    "clubId": "dortmund",
+    "number": 18,
+    "roles": ["ST"]
+  },
+
+  {
+    "id": "juv-digregorio",
+    "name": "Michele Di Gregorio",
+    "clubId": "juventus",
+    "number": 29,
+    "roles": ["GK"]
+  },
+  {
+    "id": "juv-perin",
+    "name": "Mattia Perin",
+    "clubId": "juventus",
+    "number": 36,
+    "roles": ["GK"]
+  },
+  {
+    "id": "juv-bremer",
+    "name": "Gleison Bremer",
+    "clubId": "juventus",
+    "number": 3,
+    "roles": ["CB"]
+  },
+  {
+    "id": "juv-gatti",
+    "name": "Federico Gatti",
+    "clubId": "juventus",
+    "number": 4,
+    "roles": ["CB"]
+  },
+  {
+    "id": "juv-kalulu",
+    "name": "Pierre Kalulu",
+    "clubId": "juventus",
+    "number": 15,
+    "roles": ["CB", "RB"]
+  },
+  {
+    "id": "juv-cambiaso",
+    "name": "Andrea Cambiaso",
+    "clubId": "juventus",
+    "number": 27,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "juv-savona",
+    "name": "Nicolo Savona",
+    "clubId": "juventus",
+    "number": 37,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "juv-locatelli",
+    "name": "Manuel Locatelli",
+    "clubId": "juventus",
+    "number": 5,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "juv-thuram",
+    "name": "Khephren Thuram",
+    "clubId": "juventus",
+    "number": 19,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "juv-mckennie",
+    "name": "Weston McKennie",
+    "clubId": "juventus",
+    "number": 16,
+    "roles": ["CM", "RB"]
+  },
+  {
+    "id": "juv-douglasluiz",
+    "name": "Douglas Luiz",
+    "clubId": "juventus",
+    "number": 26,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "juv-koopmeiners",
+    "name": "Teun Koopmeiners",
+    "clubId": "juventus",
+    "number": 8,
+    "roles": ["CAM", "CM"]
+  },
+  {
+    "id": "juv-conceicao",
+    "name": "Francisco Conceicao",
+    "clubId": "juventus",
+    "number": 7,
+    "roles": ["LM", "RW"]
+  },
+  {
+    "id": "juv-yildiz",
+    "name": "Kenan Yildiz",
+    "clubId": "juventus",
+    "number": 10,
+    "roles": ["RM", "LW"]
+  },
+  {
+    "id": "juv-weah",
+    "name": "Timothy Weah",
+    "clubId": "juventus",
+    "number": 22,
+    "roles": ["LW", "RB"]
+  },
+  {
+    "id": "juv-mbangula",
+    "name": "Samuel Mbangula",
+    "clubId": "juventus",
+    "number": 47,
+    "roles": ["RW", "LW"]
+  },
+  {
+    "id": "juv-vlahovic",
+    "name": "Dusan Vlahovic",
+    "clubId": "juventus",
+    "number": 9,
+    "roles": ["ST"]
+  },
+  {
+    "id": "juv-kolomuani",
+    "name": "Randal Kolo Muani",
+    "clubId": "juventus",
+    "number": 20,
+    "roles": ["ST"]
+  },
+
+  { "id": "int-sommer", "name": "Yann Sommer", "clubId": "inter", "number": 1, "roles": ["GK"] },
+  {
+    "id": "int-martinez",
+    "name": "Josep Martinez",
+    "clubId": "inter",
+    "number": 13,
+    "roles": ["GK"]
+  },
+  {
+    "id": "int-bastoni",
+    "name": "Alessandro Bastoni",
+    "clubId": "inter",
+    "number": 95,
+    "roles": ["CB", "LB"]
+  },
+  {
+    "id": "int-acerbi",
+    "name": "Francesco Acerbi",
+    "clubId": "inter",
+    "number": 15,
+    "roles": ["CB"]
+  },
+  { "id": "int-devrij", "name": "Stefan de Vrij", "clubId": "inter", "number": 6, "roles": ["CB"] },
+  {
+    "id": "int-dimarco",
+    "name": "Federico Dimarco",
+    "clubId": "inter",
+    "number": 32,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "int-dumfries",
+    "name": "Denzel Dumfries",
+    "clubId": "inter",
+    "number": 2,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "int-calhanoglu",
+    "name": "Hakan Calhanoglu",
+    "clubId": "inter",
+    "number": 20,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "int-barella",
+    "name": "Nicolo Barella",
+    "clubId": "inter",
+    "number": 23,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "int-mkhitaryan",
+    "name": "Henrikh Mkhitaryan",
+    "clubId": "inter",
+    "number": 22,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "int-asllani",
+    "name": "Kristjan Asllani",
+    "clubId": "inter",
+    "number": 21,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "int-zielinski",
+    "name": "Piotr Zielinski",
+    "clubId": "inter",
+    "number": 7,
+    "roles": ["CAM", "CM"]
+  },
+  {
+    "id": "int-carlosaugusto",
+    "name": "Carlos Augusto",
+    "clubId": "inter",
+    "number": 30,
+    "roles": ["LM", "LB"]
+  },
+  {
+    "id": "int-darmian",
+    "name": "Matteo Darmian",
+    "clubId": "inter",
+    "number": 36,
+    "roles": ["RM", "RB"]
+  },
+  {
+    "id": "int-arnautovic",
+    "name": "Marko Arnautovic",
+    "clubId": "inter",
+    "number": 8,
+    "roles": ["LW", "ST"]
+  },
+  {
+    "id": "int-taremi",
+    "name": "Mehdi Taremi",
+    "clubId": "inter",
+    "number": 99,
+    "roles": ["RW", "ST"]
+  },
+  {
+    "id": "int-lautaro",
+    "name": "Lautaro Martinez",
+    "clubId": "inter",
+    "number": 10,
+    "roles": ["ST"]
+  },
+  {
+    "id": "int-thuram",
+    "name": "Marcus Thuram",
+    "clubId": "inter",
+    "number": 9,
+    "roles": ["ST", "LW"]
+  },
+
+  {
+    "id": "psg-donnarumma",
+    "name": "Gianluigi Donnarumma",
+    "clubId": "psg",
+    "number": 99,
+    "roles": ["GK"]
+  },
+  { "id": "psg-safonov", "name": "Matvey Safonov", "clubId": "psg", "number": 39, "roles": ["GK"] },
+  { "id": "psg-marquinhos", "name": "Marquinhos", "clubId": "psg", "number": 5, "roles": ["CB"] },
+  { "id": "psg-pacho", "name": "Willian Pacho", "clubId": "psg", "number": 51, "roles": ["CB"] },
+  { "id": "psg-beraldo", "name": "Lucas Beraldo", "clubId": "psg", "number": 35, "roles": ["CB"] },
+  {
+    "id": "psg-mendes",
+    "name": "Nuno Mendes",
+    "clubId": "psg",
+    "number": 25,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "psg-hakimi",
+    "name": "Achraf Hakimi",
+    "clubId": "psg",
+    "number": 2,
+    "roles": ["RB", "RWB"]
+  },
+  { "id": "psg-vitinha", "name": "Vitinha", "clubId": "psg", "number": 17, "roles": ["CDM", "CM"] },
+  {
+    "id": "psg-zaireemery",
+    "name": "Warren Zaire-Emery",
+    "clubId": "psg",
+    "number": 33,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "psg-fabianruiz",
+    "name": "Fabian Ruiz",
+    "clubId": "psg",
+    "number": 8,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "psg-joaoneves",
+    "name": "Joao Neves",
+    "clubId": "psg",
+    "number": 87,
+    "roles": ["CM", "CDM"]
+  },
+  { "id": "psg-lee", "name": "Lee Kang-in", "clubId": "psg", "number": 19, "roles": ["CAM", "RM"] },
+  {
+    "id": "psg-barcola",
+    "name": "Bradley Barcola",
+    "clubId": "psg",
+    "number": 29,
+    "roles": ["LM", "LW"]
+  },
+  { "id": "psg-doue", "name": "Desire Doue", "clubId": "psg", "number": 14, "roles": ["RM", "RW"] },
+  {
+    "id": "psg-kvaratskhelia",
+    "name": "Khvicha Kvaratskhelia",
+    "clubId": "psg",
+    "number": 7,
+    "roles": ["LW"]
+  },
+  {
+    "id": "psg-dembele",
+    "name": "Ousmane Dembele",
+    "clubId": "psg",
+    "number": 10,
+    "roles": ["RW", "ST"]
+  },
+  { "id": "psg-ramos", "name": "Goncalo Ramos", "clubId": "psg", "number": 9, "roles": ["ST"] },
+  {
+    "id": "psg-asensio",
+    "name": "Marco Asensio",
+    "clubId": "psg",
+    "number": 11,
+    "roles": ["ST", "CAM"]
+  },
+
+  { "id": "aja-pasveer", "name": "Remko Pasveer", "clubId": "ajax", "number": 22, "roles": ["GK"] },
+  { "id": "aja-ramaj", "name": "Diant Ramaj", "clubId": "ajax", "number": 1, "roles": ["GK"] },
+  { "id": "aja-hato", "name": "Jorrel Hato", "clubId": "ajax", "number": 4, "roles": ["CB", "LB"] },
+  { "id": "aja-sutalo", "name": "Josip Sutalo", "clubId": "ajax", "number": 6, "roles": ["CB"] },
+  { "id": "aja-baas", "name": "Youri Baas", "clubId": "ajax", "number": 5, "roles": ["CB", "LB"] },
+  {
+    "id": "aja-wijndal",
+    "name": "Owen Wijndal",
+    "clubId": "ajax",
+    "number": 17,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "aja-rensch",
+    "name": "Devyne Rensch",
+    "clubId": "ajax",
+    "number": 2,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "aja-henderson",
+    "name": "Jordan Henderson",
+    "clubId": "ajax",
+    "number": 8,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "aja-taylor",
+    "name": "Kenneth Taylor",
+    "clubId": "ajax",
+    "number": 20,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "aja-vandenboomen",
+    "name": "Branco van den Boomen",
+    "clubId": "ajax",
+    "number": 21,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "aja-mannsverk",
+    "name": "Sivert Mannsverk",
+    "clubId": "ajax",
+    "number": 15,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "aja-traore",
+    "name": "Bertrand Traore",
+    "clubId": "ajax",
+    "number": 10,
+    "roles": ["CAM", "RW"]
+  },
+  {
+    "id": "aja-godts",
+    "name": "Mika Godts",
+    "clubId": "ajax",
+    "number": 11,
+    "roles": ["LM", "LW"]
+  },
+  {
+    "id": "aja-berghuis",
+    "name": "Steven Berghuis",
+    "clubId": "ajax",
+    "number": 23,
+    "roles": ["RM", "CAM"]
+  },
+  {
+    "id": "aja-forbs",
+    "name": "Carlos Forbs",
+    "clubId": "ajax",
+    "number": 7,
+    "roles": ["LW", "RW"]
+  },
+  {
+    "id": "aja-rasmussen",
+    "name": "Christian Rasmussen",
+    "clubId": "ajax",
+    "number": 27,
+    "roles": ["RW", "ST"]
+  },
+  { "id": "aja-brobbey", "name": "Brian Brobbey", "clubId": "ajax", "number": 9, "roles": ["ST"] },
+  { "id": "aja-akpom", "name": "Chuba Akpom", "clubId": "ajax", "number": 33, "roles": ["ST"] },
+
+  { "id": "mil-maignan", "name": "Mike Maignan", "clubId": "milan", "number": 16, "roles": ["GK"] },
+  {
+    "id": "mil-sportiello",
+    "name": "Marco Sportiello",
+    "clubId": "milan",
+    "number": 57,
+    "roles": ["GK"]
+  },
+  { "id": "mil-tomori", "name": "Fikayo Tomori", "clubId": "milan", "number": 23, "roles": ["CB"] },
+  { "id": "mil-thiaw", "name": "Malick Thiaw", "clubId": "milan", "number": 28, "roles": ["CB"] },
+  { "id": "mil-gabbia", "name": "Matteo Gabbia", "clubId": "milan", "number": 46, "roles": ["CB"] },
+  {
+    "id": "mil-theo",
+    "name": "Theo Hernandez",
+    "clubId": "milan",
+    "number": 19,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "mil-calabria",
+    "name": "Davide Calabria",
+    "clubId": "milan",
+    "number": 2,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "mil-fofana",
+    "name": "Youssouf Fofana",
+    "clubId": "milan",
+    "number": 29,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "mil-reijnders",
+    "name": "Tijjani Reijnders",
+    "clubId": "milan",
+    "number": 14,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "mil-loftuscheek",
+    "name": "Ruben Loftus-Cheek",
+    "clubId": "milan",
+    "number": 8,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "mil-musah",
+    "name": "Yunus Musah",
+    "clubId": "milan",
+    "number": 80,
+    "roles": ["CM", "RB"]
+  },
+  {
+    "id": "mil-pulisic",
+    "name": "Christian Pulisic",
+    "clubId": "milan",
+    "number": 11,
+    "roles": ["CAM", "RW"]
+  },
+  {
+    "id": "mil-leao",
+    "name": "Rafael Leao",
+    "clubId": "milan",
+    "number": 10,
+    "roles": ["LM", "LW"]
+  },
+  {
+    "id": "mil-chukwueze",
+    "name": "Samuel Chukwueze",
+    "clubId": "milan",
+    "number": 21,
+    "roles": ["RM", "RW"]
+  },
+  {
+    "id": "mil-okafor",
+    "name": "Noah Okafor",
+    "clubId": "milan",
+    "number": 17,
+    "roles": ["LW", "ST"]
+  },
+  {
+    "id": "mil-jimenez",
+    "name": "Alex Jimenez",
+    "clubId": "milan",
+    "number": 27,
+    "roles": ["RW", "RB"]
+  },
+  { "id": "mil-morata", "name": "Alvaro Morata", "clubId": "milan", "number": 7, "roles": ["ST"] },
+  { "id": "mil-abraham", "name": "Tammy Abraham", "clubId": "milan", "number": 90, "roles": ["ST"] }
+]

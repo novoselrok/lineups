@@ -1,0 +1,146 @@
+[
+  {
+    "id": "arsenal",
+    "name": "Arsenal",
+    "shortName": "ARS",
+    "kit": {
+      "shirt": "#ef0107",
+      "sleeve": "#ffffff",
+      "shorts": "#ffffff",
+      "number": "#ffffff",
+      "pattern": "solid"
+    }
+  },
+  {
+    "id": "man-city",
+    "name": "Manchester City",
+    "shortName": "MCI",
+    "kit": {
+      "shirt": "#6cabdd",
+      "sleeve": "#6cabdd",
+      "shorts": "#ffffff",
+      "number": "#ffffff",
+      "pattern": "solid"
+    }
+  },
+  {
+    "id": "liverpool",
+    "name": "Liverpool",
+    "shortName": "LIV",
+    "kit": {
+      "shirt": "#c8102e",
+      "sleeve": "#c8102e",
+      "shorts": "#c8102e",
+      "number": "#ffffff",
+      "pattern": "solid"
+    }
+  },
+  {
+    "id": "real-madrid",
+    "name": "Real Madrid",
+    "shortName": "RMA",
+    "kit": {
+      "shirt": "#fefefe",
+      "sleeve": "#fefefe",
+      "shorts": "#fefefe",
+      "number": "#00529f",
+      "pattern": "solid"
+    }
+  },
+  {
+    "id": "barcelona",
+    "name": "FC Barcelona",
+    "shortName": "BAR",
+    "kit": {
+      "shirt": "#a50044",
+      "sleeve": "#004d98",
+      "shorts": "#004d98",
+      "number": "#ffedbf",
+      "pattern": "stripes"
+    }
+  },
+  {
+    "id": "bayern",
+    "name": "Bayern Munich",
+    "shortName": "BAY",
+    "kit": {
+      "shirt": "#dc052d",
+      "sleeve": "#dc052d",
+      "shorts": "#dc052d",
+      "number": "#ffffff",
+      "pattern": "solid"
+    }
+  },
+  {
+    "id": "dortmund",
+    "name": "Borussia Dortmund",
+    "shortName": "BVB",
+    "kit": {
+      "shirt": "#fde100",
+      "sleeve": "#111111",
+      "shorts": "#111111",
+      "number": "#111111",
+      "pattern": "solid"
+    }
+  },
+  {
+    "id": "juventus",
+    "name": "Juventus",
+    "shortName": "JUV",
+    "kit": {
+      "shirt": "#f5f5f5",
+      "sleeve": "#111111",
+      "shorts": "#111111",
+      "number": "#111111",
+      "pattern": "stripes"
+    }
+  },
+  {
+    "id": "inter",
+    "name": "Inter Milan",
+    "shortName": "INT",
+    "kit": {
+      "shirt": "#010e80",
+      "sleeve": "#111111",
+      "shorts": "#111111",
+      "number": "#ffffff",
+      "pattern": "stripes"
+    }
+  },
+  {
+    "id": "psg",
+    "name": "Paris Saint-Germain",
+    "shortName": "PSG",
+    "kit": {
+      "shirt": "#004170",
+      "sleeve": "#004170",
+      "shorts": "#ffffff",
+      "number": "#ffffff",
+      "pattern": "sash"
+    }
+  },
+  {
+    "id": "ajax",
+    "name": "Ajax",
+    "shortName": "AJA",
+    "kit": {
+      "shirt": "#fefefe",
+      "sleeve": "#d2122e",
+      "shorts": "#fefefe",
+      "number": "#d2122e",
+      "pattern": "halves"
+    }
+  },
+  {
+    "id": "milan",
+    "name": "AC Milan",
+    "shortName": "MIL",
+    "kit": {
+      "shirt": "#fb090b",
+      "sleeve": "#111111",
+      "shorts": "#ffffff",
+      "number": "#ffffff",
+      "pattern": "stripes"
+    }
+  }
+]

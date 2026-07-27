@@ -48,14 +48,14 @@ describe('assignPlayer', () => {
     expect(next.assignments.lw).toBeUndefined();
   });
 
-  it('swaps when an on-pitch player is moved onto an occupied slot', () => {
+  it('sends the occupant back to the pool when an on-pitch player is moved onto their slot', () => {
     const next = reduce(
       base,
       assign('lw', 'rma-vinicius'),
       assign('rw', 'liv-salah'),
       assign('rw', 'rma-vinicius'),
     );
-    expect(next.assignments).toEqual({ lw: 'liv-salah', rw: 'rma-vinicius' });
+    expect(next.assignments).toEqual({ rw: 'rma-vinicius' });
   });
 
   it('is a no-op when the player is already in that slot', () => {

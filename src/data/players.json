@@ -375,6 +375,13 @@
     "roles": ["LB", "LWB"]
   },
   {
+    "id": "rma-fran-garcia",
+    "name": "Fran Garcia",
+    "clubId": "real-madrid",
+    "number": 23,
+    "roles": ["LB", "LWB"]
+  },
+  {
     "id": "rma-carvajal",
     "name": "Dani Carvajal",
     "clubId": "real-madrid",
@@ -473,6 +480,13 @@
     "clubId": "barcelona",
     "number": 2,
     "roles": ["CB"]
+  },
+  {
+    "id": "bar-fort",
+    "name": "Hector Fort",
+    "clubId": "barcelona",
+    "number": 2,
+    "roles": ["RB", "RWB"]
   },
   {
     "id": "bar-araujo",

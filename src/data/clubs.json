@@ -142,5 +142,17 @@
       "number": "#ffffff",
       "pattern": "stripes"
     }
+  },
+  {
+    "id": "man-utd",
+    "name": "Manchester United",
+    "shortName": "MUN",
+    "kit": {
+      "shirt": "#da291c",
+      "sleeve": "#da291c",
+      "shorts": "#ffffff",
+      "number": "#ffffff",
+      "pattern": "solid"
+    }
   }
 ]

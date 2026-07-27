@@ -1287,5 +1287,133 @@
     "roles": ["RW", "RB"]
   },
   { "id": "mil-morata", "name": "Alvaro Morata", "clubId": "milan", "number": 7, "roles": ["ST"] },
-  { "id": "mil-abraham", "name": "Tammy Abraham", "clubId": "milan", "number": 90, "roles": ["ST"] }
+  {
+    "id": "mil-abraham",
+    "name": "Tammy Abraham",
+    "clubId": "milan",
+    "number": 90,
+    "roles": ["ST"]
+  },
+
+  { "id": "mun-onana", "name": "Andre Onana", "clubId": "man-utd", "number": 24, "roles": ["GK"] },
+  {
+    "id": "mun-bayindir",
+    "name": "Altay Bayindir",
+    "clubId": "man-utd",
+    "number": 1,
+    "roles": ["GK"]
+  },
+  {
+    "id": "mun-de-ligt",
+    "name": "Matthijs de Ligt",
+    "clubId": "man-utd",
+    "number": 4,
+    "roles": ["CB"]
+  },
+  {
+    "id": "mun-martinez",
+    "name": "Lisandro Martinez",
+    "clubId": "man-utd",
+    "number": 6,
+    "roles": ["CB", "LB"]
+  },
+  { "id": "mun-yoro", "name": "Leny Yoro", "clubId": "man-utd", "number": 15, "roles": ["CB"] },
+  {
+    "id": "mun-shaw",
+    "name": "Luke Shaw",
+    "clubId": "man-utd",
+    "number": 23,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "mun-mazraoui",
+    "name": "Noussair Mazraoui",
+    "clubId": "man-utd",
+    "number": 3,
+    "roles": ["RB", "LB"]
+  },
+  {
+    "id": "mun-dalot",
+    "name": "Diogo Dalot",
+    "clubId": "man-utd",
+    "number": 20,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "mun-casemiro",
+    "name": "Casemiro",
+    "clubId": "man-utd",
+    "number": 18,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "mun-ugarte",
+    "name": "Manuel Ugarte",
+    "clubId": "man-utd",
+    "number": 25,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "mun-mainoo",
+    "name": "Kobbie Mainoo",
+    "clubId": "man-utd",
+    "number": 37,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "mun-eriksen",
+    "name": "Christian Eriksen",
+    "clubId": "man-utd",
+    "number": 14,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "mun-fernandes",
+    "name": "Bruno Fernandes",
+    "clubId": "man-utd",
+    "number": 8,
+    "roles": ["CAM", "CM"]
+  },
+  {
+    "id": "mun-mount",
+    "name": "Mason Mount",
+    "clubId": "man-utd",
+    "number": 7,
+    "roles": ["CAM", "RM"]
+  },
+  {
+    "id": "mun-garnacho",
+    "name": "Alejandro Garnacho",
+    "clubId": "man-utd",
+    "number": 17,
+    "roles": ["LW", "LM"]
+  },
+  {
+    "id": "mun-rashford",
+    "name": "Marcus Rashford",
+    "clubId": "man-utd",
+    "number": 10,
+    "roles": ["LW", "ST"]
+  },
+  {
+    "id": "mun-amad",
+    "name": "Amad Diallo",
+    "clubId": "man-utd",
+    "number": 16,
+    "roles": ["RW", "RM"]
+  },
+  {
+    "id": "mun-hojlund",
+    "name": "Rasmus Hojlund",
+    "clubId": "man-utd",
+    "number": 9,
+    "roles": ["ST"]
+  },
+  {
+    "id": "mun-zirkzee",
+    "name": "Joshua Zirkzee",
+    "clubId": "man-utd",
+    "number": 11,
+    "roles": ["ST", "CF"]
+  }
 ]

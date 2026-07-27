@@ -1319,6 +1319,13 @@
   },
   { "id": "mun-yoro", "name": "Leny Yoro", "clubId": "man-utd", "number": 15, "roles": ["CB"] },
   {
+    "id": "mun-maguire",
+    "name": "Harry Maguire",
+    "clubId": "man-utd",
+    "number": 15,
+    "roles": ["CB"]
+  },
+  {
     "id": "mun-shaw",
     "name": "Luke Shaw",
     "clubId": "man-utd",

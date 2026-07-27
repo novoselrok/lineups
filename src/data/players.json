@@ -378,7 +378,7 @@
     "id": "rma-fran-garcia",
     "name": "Fran Garcia",
     "clubId": "real-madrid",
-    "number": 23,
+    "number": 20,
     "roles": ["LB", "LWB"]
   },
   {
@@ -485,7 +485,7 @@
     "id": "bar-fort",
     "name": "Hector Fort",
     "clubId": "barcelona",
-    "number": 2,
+    "number": 32,
     "roles": ["RB", "RWB"]
   },
   {

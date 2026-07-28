@@ -1448,5 +1448,12 @@
     "clubId": "chelsea",
     "number": 16,
     "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "che-penders",
+    "name": "Mike Penders",
+    "clubId": "chelsea",
+    "number": 30,
+    "roles": ["GK"]
   }
 ]

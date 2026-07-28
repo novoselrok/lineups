@@ -1455,5 +1455,12 @@
     "clubId": "chelsea",
     "number": 30,
     "roles": ["GK"]
+  },
+  {
+    "id": "che-delap",
+    "name": "Liam Delap",
+    "clubId": "chelsea",
+    "number": 9,
+    "roles": ["ST", "CF"]
   }
 ]

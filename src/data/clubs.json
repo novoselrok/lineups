@@ -142,5 +142,17 @@
       "number": "#ffffff",
       "pattern": "stripes"
     }
+  },
+  {
+    "id": "tottenham",
+    "name": "Tottenham Hotspur",
+    "shortName": "TOT",
+    "kit": {
+      "shirt": "#ffffff",
+      "sleeve": "#ffffff",
+      "shorts": "#132257",
+      "number": "#132257",
+      "pattern": "solid"
+    }
   }
 ]

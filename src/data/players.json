@@ -1287,5 +1287,138 @@
     "roles": ["RW", "RB"]
   },
   { "id": "mil-morata", "name": "Alvaro Morata", "clubId": "milan", "number": 7, "roles": ["ST"] },
-  { "id": "mil-abraham", "name": "Tammy Abraham", "clubId": "milan", "number": 90, "roles": ["ST"] }
+  {
+    "id": "mil-abraham",
+    "name": "Tammy Abraham",
+    "clubId": "milan",
+    "number": 90,
+    "roles": ["ST"]
+  },
+
+  {
+    "id": "tot-vicario",
+    "name": "Guglielmo Vicario",
+    "clubId": "tottenham",
+    "number": 1,
+    "roles": ["GK"]
+  },
+  {
+    "id": "tot-forster",
+    "name": "Fraser Forster",
+    "clubId": "tottenham",
+    "number": 20,
+    "roles": ["GK"]
+  },
+  {
+    "id": "tot-romero",
+    "name": "Cristian Romero",
+    "clubId": "tottenham",
+    "number": 17,
+    "roles": ["CB"]
+  },
+  {
+    "id": "tot-vandeven",
+    "name": "Micky van de Ven",
+    "clubId": "tottenham",
+    "number": 37,
+    "roles": ["CB", "LB"]
+  },
+  {
+    "id": "tot-dragusin",
+    "name": "Radu Dragusin",
+    "clubId": "tottenham",
+    "number": 6,
+    "roles": ["CB"]
+  },
+  {
+    "id": "tot-udogie",
+    "name": "Destiny Udogie",
+    "clubId": "tottenham",
+    "number": 13,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "tot-davies",
+    "name": "Ben Davies",
+    "clubId": "tottenham",
+    "number": 33,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "tot-porro",
+    "name": "Pedro Porro",
+    "clubId": "tottenham",
+    "number": 23,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "tot-spence",
+    "name": "Djed Spence",
+    "clubId": "tottenham",
+    "number": 24,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "tot-bentancur",
+    "name": "Rodrigo Bentancur",
+    "clubId": "tottenham",
+    "number": 30,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "tot-bissouma",
+    "name": "Yves Bissouma",
+    "clubId": "tottenham",
+    "number": 8,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "tot-sarr",
+    "name": "Pape Matar Sarr",
+    "clubId": "tottenham",
+    "number": 29,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "tot-maddison",
+    "name": "James Maddison",
+    "clubId": "tottenham",
+    "number": 10,
+    "roles": ["CAM", "CM"]
+  },
+  {
+    "id": "tot-kulusevski",
+    "name": "Dejan Kulusevski",
+    "clubId": "tottenham",
+    "number": 21,
+    "roles": ["RM", "CAM"]
+  },
+  {
+    "id": "tot-johnson",
+    "name": "Brennan Johnson",
+    "clubId": "tottenham",
+    "number": 22,
+    "roles": ["RW", "LW"]
+  },
+  {
+    "id": "tot-son",
+    "name": "Son Heung-min",
+    "clubId": "tottenham",
+    "number": 7,
+    "roles": ["LW", "LM"]
+  },
+  {
+    "id": "tot-solanke",
+    "name": "Dominic Solanke",
+    "clubId": "tottenham",
+    "number": 19,
+    "roles": ["ST", "CF"]
+  },
+  {
+    "id": "tot-richarlison",
+    "name": "Richarlison",
+    "clubId": "tottenham",
+    "number": 9,
+    "roles": ["ST", "CF"]
+  }
 ]

@@ -1420,5 +1420,19 @@
     "clubId": "chelsea",
     "number": 18,
     "roles": ["ST", "CF"]
+  },
+  {
+    "id": "che-estevao",
+    "name": "Estevao Willian",
+    "clubId": "chelsea",
+    "number": 41,
+    "roles": ["RW", "CAM"]
+  },
+  {
+    "id": "che-guiu",
+    "name": "Marc Guiu",
+    "clubId": "chelsea",
+    "number": 38,
+    "roles": ["ST"]
   }
 ]

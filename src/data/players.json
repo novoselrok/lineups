@@ -1287,5 +1287,138 @@
     "roles": ["RW", "RB"]
   },
   { "id": "mil-morata", "name": "Alvaro Morata", "clubId": "milan", "number": 7, "roles": ["ST"] },
-  { "id": "mil-abraham", "name": "Tammy Abraham", "clubId": "milan", "number": 90, "roles": ["ST"] }
+  {
+    "id": "mil-abraham",
+    "name": "Tammy Abraham",
+    "clubId": "milan",
+    "number": 90,
+    "roles": ["ST"]
+  },
+
+  {
+    "id": "che-sanchez",
+    "name": "Robert Sanchez",
+    "clubId": "chelsea",
+    "number": 1,
+    "roles": ["GK"]
+  },
+  {
+    "id": "che-jorgensen",
+    "name": "Filip Jorgensen",
+    "clubId": "chelsea",
+    "number": 12,
+    "roles": ["GK"]
+  },
+  {
+    "id": "che-colwill",
+    "name": "Levi Colwill",
+    "clubId": "chelsea",
+    "number": 6,
+    "roles": ["CB", "LB"]
+  },
+  {
+    "id": "che-fofana",
+    "name": "Wesley Fofana",
+    "clubId": "chelsea",
+    "number": 33,
+    "roles": ["CB"]
+  },
+  {
+    "id": "che-tosin",
+    "name": "Tosin Adarabioyo",
+    "clubId": "chelsea",
+    "number": 4,
+    "roles": ["CB"]
+  },
+  {
+    "id": "che-cucurella",
+    "name": "Marc Cucurella",
+    "clubId": "chelsea",
+    "number": 3,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "che-james",
+    "name": "Reece James",
+    "clubId": "chelsea",
+    "number": 24,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "che-gusto",
+    "name": "Malo Gusto",
+    "clubId": "chelsea",
+    "number": 27,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "che-caicedo",
+    "name": "Moises Caicedo",
+    "clubId": "chelsea",
+    "number": 25,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "che-lavia",
+    "name": "Romeo Lavia",
+    "clubId": "chelsea",
+    "number": 45,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "che-enzo",
+    "name": "Enzo Fernandez",
+    "clubId": "chelsea",
+    "number": 8,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "che-chukwuemeka",
+    "name": "Carney Chukwuemeka",
+    "clubId": "chelsea",
+    "number": 17,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "che-palmer",
+    "name": "Cole Palmer",
+    "clubId": "chelsea",
+    "number": 20,
+    "roles": ["CAM", "RW"]
+  },
+  {
+    "id": "che-sancho",
+    "name": "Jadon Sancho",
+    "clubId": "chelsea",
+    "number": 19,
+    "roles": ["LM", "LW"]
+  },
+  {
+    "id": "che-madueke",
+    "name": "Noni Madueke",
+    "clubId": "chelsea",
+    "number": 11,
+    "roles": ["RM", "RW"]
+  },
+  {
+    "id": "che-neto",
+    "name": "Pedro Neto",
+    "clubId": "chelsea",
+    "number": 7,
+    "roles": ["RW", "LW"]
+  },
+  {
+    "id": "che-jackson",
+    "name": "Nicolas Jackson",
+    "clubId": "chelsea",
+    "number": 15,
+    "roles": ["ST"]
+  },
+  {
+    "id": "che-nkunku",
+    "name": "Christopher Nkunku",
+    "clubId": "chelsea",
+    "number": 18,
+    "roles": ["ST", "CF"]
+  }
 ]

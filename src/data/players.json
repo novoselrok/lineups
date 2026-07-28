@@ -1589,5 +1589,12 @@
     "clubId": "newcastle",
     "number": 9,
     "roles": ["ST", "CF"]
+  },
+  {
+    "id": "new-longstaff",
+    "name": "Sean Longstaff",
+    "clubId": "newcastle",
+    "number": 33,
+    "roles": ["CM", "CDM"]
   }
 ]

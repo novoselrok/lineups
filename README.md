@@ -63,7 +63,7 @@ rather than crashing. Everything sits behind the `LineupStore` interface in
 
 ### Player data
 
-`src/data/clubs.json` and `src/data/players.json` bundle 14 clubs, 261 players. Club kit
+`src/data/clubs.json` and `src/data/players.json` bundle 14 clubs, 262 players. Club kit
 colours are the real first-choice strips; the squads are a hand-authored, plausible snapshot
 rather than a live feed, since there is no external API in the loop. That keeps the app fully
 offline and the tests deterministic. Replace those two files to use your own data —

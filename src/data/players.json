@@ -1610,5 +1610,6 @@
     "clubId": "newcastle-united",
     "number": 17,
     "roles": ["RB", "CB"]
-  }
+  },
+  { "id": "new-ramsey", "name": "Jacob Ramsey", "clubId": "newcastle", "number": 19, "roles": ["CAM", "LM"] }
 ]

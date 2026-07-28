@@ -1607,9 +1607,15 @@
   {
     "id": "new-krafth",
     "name": "Emil Krafth",
-    "clubId": "newcastle-united",
+    "clubId": "newcastle",
     "number": 17,
     "roles": ["RB", "CB"]
   },
-  { "id": "new-ramsey", "name": "Jacob Ramsey", "clubId": "newcastle", "number": 19, "roles": ["CAM", "LM"] }
+  {
+    "id": "new-ramsey",
+    "name": "Jacob Ramsey",
+    "clubId": "newcastle",
+    "number": 19,
+    "roles": ["CAM", "LM"]
+  }
 ]

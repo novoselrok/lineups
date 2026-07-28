@@ -1596,5 +1596,12 @@
     "clubId": "newcastle",
     "number": 36,
     "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "new-wilson",
+    "name": "William Osula",
+    "clubId": "newcastle",
+    "number": 18,
+    "roles": ["ST"]
   }
 ]

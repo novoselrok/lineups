@@ -137,7 +137,8 @@ async function keyboardDrag(page: Page, handle: Locator, target: Locator) {
 test.beforeEach(async ({ page }) => {
   await page.goto('/');
   // Start from a clean slate so a leftover store from an earlier run cannot mask a bug.
-  await page.getByRole('button', { name: 'New' }).click();
+  // Exact match: player pool cards carry club names, and "New" is a substring of "Newcastle".
+  await page.getByRole('button', { name: 'New', exact: true }).click();
 });
 
 test('builds, themes, saves and reloads a lineup', async ({ page }) => {

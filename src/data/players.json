@@ -1596,5 +1596,12 @@
     "clubId": "benfica",
     "number": 9,
     "roles": ["ST", "CF"]
+  },
+  {
+    "id": "ben-manu-silva",
+    "name": "Manu Silva",
+    "clubId": "benfica",
+    "number": 20,
+    "roles": ["CDM", "CM"]
   }
 ]

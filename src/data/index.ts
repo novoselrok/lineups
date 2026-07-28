@@ -9,7 +9,7 @@
  */
 import { FORMATIONS } from '../shared/formations';
 import { clubSchema, playerSchema } from '../shared/schemas';
-import { compareByRole } from '../shared/roles';
+import { compareByRole, roleGroup } from '../shared/roles';
 import type { Catalog, Club, Player } from '../shared/types';
 import type { PositionRole } from '../shared/roles';
 import clubsJson from './clubs.json' with { type: 'json' };
@@ -33,6 +33,11 @@ export function findPlayer(id: string): Player | undefined {
 
 export function findClub(id: string): Club | undefined {
   return CLUBS_BY_ID.get(id);
+}
+
+/** One club's squad, in the same back-to-front order the player pool uses. */
+export function squadFor(clubId: string): Player[] {
+  return searchPlayers({ clubId });
 }
 
 export interface PlayerQuery {

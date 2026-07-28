@@ -144,6 +144,18 @@
     }
   },
   {
+    "id": "chelsea",
+    "name": "Chelsea",
+    "shortName": "CHE",
+    "kit": {
+      "shirt": "#034694",
+      "sleeve": "#034694",
+      "shorts": "#034694",
+      "number": "#ffffff",
+      "pattern": "solid"
+    }
+  },
+  {
     "id": "napoli",
     "name": "SSC Napoli",
     "shortName": "NAP",

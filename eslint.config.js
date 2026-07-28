@@ -5,13 +5,7 @@ import tseslint from 'typescript-eslint';
 
 export default tseslint.config(
   {
-    ignores: [
-      'dist/**',
-      'coverage/**',
-      'playwright-report/**',
-      'test-results/**',
-      'node_modules/**',
-    ],
+    ignores: ['dist/**', 'coverage/**', 'node_modules/**'],
   },
   js.configs.recommended,
   tseslint.configs.recommended,
@@ -35,7 +29,7 @@ export default tseslint.config(
     languageOptions: { globals: globals.node },
   },
   {
-    files: ['**/*.test.{ts,tsx}', 'e2e/**/*.ts', 'src/client/test/**/*.ts'],
+    files: ['**/*.test.{ts,tsx}', 'src/client/test/**/*.ts'],
     rules: { '@typescript-eslint/no-non-null-assertion': 'off' },
   },
 );

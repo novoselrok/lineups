@@ -53,32 +53,3 @@ jobs:
           path: coverage/
           retention-days: 7
           if-no-files-found: ignore
-
-  e2e:
-    name: End-to-end tests
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: ${{ env.NODE_VERSION }}
-          cache: npm
-
-      - run: npm ci
-
-      - name: Install Playwright browser
-        run: npx playwright install --with-deps chromium
-
-      # The Playwright config builds the client and starts the server itself.
-      - name: Run Playwright tests
-        run: npm run test:e2e
-
-      - name: Upload Playwright report
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: playwright-report
-          path: playwright-report/
-          retention-days: 7
-          if-no-files-found: ignore

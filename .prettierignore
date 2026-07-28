@@ -1,6 +1,4 @@
 dist/
 coverage/
-playwright-report/
-test-results/
 data/*.json
 package-lock.json

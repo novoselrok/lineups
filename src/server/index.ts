@@ -7,7 +7,7 @@ import { createJsonStore } from './store';
 
 const PORT = Number(process.env.PORT ?? 8787);
 
-/** Where saved lineups live. Overridable so E2E runs never touch your real file. */
+/** Where saved lineups live. Overridable so a throwaway run never touches your real file. */
 const DATA_FILE = process.env.LINEUPS_DATA_FILE ?? 'data/lineups.json';
 
 const clientDir = 'dist/client';

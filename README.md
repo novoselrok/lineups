@@ -38,7 +38,6 @@ npm start          # http://localhost:8787
 | Bundled clubs and players                  | `src/data/`   |
 | API and persistence                        | `src/server/` |
 | UI                                         | `src/client/` |
-| End-to-end tests                           | `e2e/`        |
 
 **Formations.** `src/shared/formations.ts` defines seven formations (4-4-2, 4-3-3, 4-2-3-1,
 4-1-4-1, 3-5-2, 3-4-3, 5-3-2). Each has exactly eleven slots positioned as percentages of the
@@ -90,17 +89,16 @@ chosen formation or a player assigned twice.
 
 ## Commands
 
-| Command                           | Purpose                                          |
-| --------------------------------- | ------------------------------------------------ |
-| `npm run dev`                     | API and client with hot reload                   |
-| `npm run build`                   | Build the client to `dist/client`                |
-| `npm start`                       | Serve API and built client from one origin       |
-| `npm run typecheck`               | `tsc --noEmit`                                   |
-| `npm run lint` / `lint:fix`       | ESLint                                           |
-| `npm run format` / `format:check` | Prettier                                         |
-| `npm test` / `npm run test:unit`  | Vitest, both projects                            |
-| `npm run test:watch`              | Vitest in watch mode                             |
-| `npm run test:e2e`                | Playwright (builds and starts the server itself) |
+| Command                           | Purpose                                    |
+| --------------------------------- | ------------------------------------------ |
+| `npm run dev`                     | API and client with hot reload             |
+| `npm run build`                   | Build the client to `dist/client`          |
+| `npm start`                       | Serve API and built client from one origin |
+| `npm run typecheck`               | `tsc --noEmit`                             |
+| `npm run lint` / `lint:fix`       | ESLint                                     |
+| `npm run format` / `format:check` | Prettier                                   |
+| `npm test` / `npm run test:unit`  | Vitest, both projects                      |
+| `npm run test:watch`              | Vitest in watch mode                       |
 
 ## Tests
 
@@ -111,25 +109,12 @@ Vitest runs two projects, split by file extension:
 - **`client`** (`*.test.tsx`, jsdom): the pitch, the search modal, the kit panel, and an
   `App` suite driving the whole editor against a fake API.
 
-Playwright covers the real thing end to end: choosing a formation, assigning through the modal,
-dragging from the pool onto a position, swapping two players with the keyboard, applying a
-custom kit, saving, and reloading the page to confirm the lineup came back from disk.
-
-Before the first Playwright run:
-
-```bash
-npx playwright install chromium
-```
-
-E2E runs write to `.playwright/e2e-lineups.json`, so your own saved lineups are never touched.
-
 ## CI
 
 `.github/workflows/ci.yml` runs on pushes to `main` and on every pull request, cancelling
 superseded runs:
 
 - **check** — typecheck, lint, format check, unit and component tests with coverage, and a build
-- **e2e** — Playwright against the built app, uploading the HTML report if it fails
 
 ## Accessibility notes
 

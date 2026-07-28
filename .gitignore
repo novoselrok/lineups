@@ -5,12 +5,6 @@ coverage/
 # Runtime lineup store — generated on first save
 data/*.json
 
-# Playwright
-playwright-report/
-test-results/
-blob-report/
-.playwright/
-
 # TS incremental build info
 *.tsbuildinfo
 

@@ -154,5 +154,17 @@
       "number": "#ffffff",
       "pattern": "solid"
     }
+  },
+  {
+    "id": "leverkusen",
+    "name": "Bayer Leverkusen",
+    "shortName": "LEV",
+    "kit": {
+      "shirt": "#e32221",
+      "sleeve": "#111111",
+      "shorts": "#111111",
+      "number": "#ffffff",
+      "pattern": "halves"
+    }
   }
 ]

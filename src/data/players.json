@@ -1434,5 +1434,132 @@
     "clubId": "chelsea",
     "number": 38,
     "roles": ["ST"]
+  },
+
+  {
+    "id": "lev-hradecky",
+    "name": "Lukas Hradecky",
+    "clubId": "leverkusen",
+    "number": 1,
+    "roles": ["GK"]
+  },
+  {
+    "id": "lev-kovar",
+    "name": "Matej Kovar",
+    "clubId": "leverkusen",
+    "number": 26,
+    "roles": ["GK"]
+  },
+  {
+    "id": "lev-tah",
+    "name": "Jonathan Tah",
+    "clubId": "leverkusen",
+    "number": 4,
+    "roles": ["CB"]
+  },
+  {
+    "id": "lev-tapsoba",
+    "name": "Edmond Tapsoba",
+    "clubId": "leverkusen",
+    "number": 12,
+    "roles": ["CB"]
+  },
+  {
+    "id": "lev-hincapie",
+    "name": "Piero Hincapie",
+    "clubId": "leverkusen",
+    "number": 3,
+    "roles": ["CB", "LB"]
+  },
+  {
+    "id": "lev-grimaldo",
+    "name": "Alejandro Grimaldo",
+    "clubId": "leverkusen",
+    "number": 20,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "lev-frimpong",
+    "name": "Jeremie Frimpong",
+    "clubId": "leverkusen",
+    "number": 30,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "lev-mukiele",
+    "name": "Nordi Mukiele",
+    "clubId": "leverkusen",
+    "number": 23,
+    "roles": ["RB", "CB"]
+  },
+  {
+    "id": "lev-xhaka",
+    "name": "Granit Xhaka",
+    "clubId": "leverkusen",
+    "number": 34,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "lev-andrich",
+    "name": "Robert Andrich",
+    "clubId": "leverkusen",
+    "number": 8,
+    "roles": ["CDM", "CB"]
+  },
+  {
+    "id": "lev-palacios",
+    "name": "Exequiel Palacios",
+    "clubId": "leverkusen",
+    "number": 25,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "lev-wirtz",
+    "name": "Florian Wirtz",
+    "clubId": "leverkusen",
+    "number": 10,
+    "roles": ["CAM", "CM"]
+  },
+  {
+    "id": "lev-hofmann",
+    "name": "Jonas Hofmann",
+    "clubId": "leverkusen",
+    "number": 7,
+    "roles": ["CAM", "RM"]
+  },
+  {
+    "id": "lev-tella",
+    "name": "Nathan Tella",
+    "clubId": "leverkusen",
+    "number": 27,
+    "roles": ["RM", "RW"]
+  },
+  {
+    "id": "lev-terrier",
+    "name": "Martin Terrier",
+    "clubId": "leverkusen",
+    "number": 11,
+    "roles": ["LM", "LW"]
+  },
+  {
+    "id": "lev-adli",
+    "name": "Amine Adli",
+    "clubId": "leverkusen",
+    "number": 6,
+    "roles": ["LW", "RW"]
+  },
+  {
+    "id": "lev-boniface",
+    "name": "Victor Boniface",
+    "clubId": "leverkusen",
+    "number": 22,
+    "roles": ["ST"]
+  },
+  {
+    "id": "lev-schick",
+    "name": "Patrik Schick",
+    "clubId": "leverkusen",
+    "number": 14,
+    "roles": ["ST", "CF"]
   }
 ]

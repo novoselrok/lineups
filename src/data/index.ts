@@ -9,7 +9,7 @@
  */
 import { FORMATIONS } from '../shared/formations';
 import { clubSchema, playerSchema } from '../shared/schemas';
-import { compareByRole, roleGroup } from '../shared/roles';
+import { compareByRole } from '../shared/roles';
 import type { Catalog, Club, Player } from '../shared/types';
 import type { PositionRole } from '../shared/roles';
 import clubsJson from './clubs.json' with { type: 'json' };

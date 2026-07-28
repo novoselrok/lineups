@@ -1476,5 +1476,12 @@
     "clubId": "chelsea",
     "number": 22,
     "roles": ["CAM", "RW"]
+  },
+  {
+    "id": "che-hato",
+    "name": "Jorrel Hato",
+    "clubId": "chelsea",
+    "number": 21,
+    "roles": ["CB", "LB"]
   }
 ]

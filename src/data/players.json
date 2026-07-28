@@ -1455,5 +1455,146 @@
     "clubId": "chelsea",
     "number": 30,
     "roles": ["GK"]
+  },
+
+  {
+    "id": "ben-trubin",
+    "name": "Anatoliy Trubin",
+    "clubId": "benfica",
+    "number": 1,
+    "roles": ["GK"]
+  },
+  {
+    "id": "ben-soares",
+    "name": "Samuel Soares",
+    "clubId": "benfica",
+    "number": 12,
+    "roles": ["GK"]
+  },
+  {
+    "id": "ben-otamendi",
+    "name": "Nicolas Otamendi",
+    "clubId": "benfica",
+    "number": 30,
+    "roles": ["CB"]
+  },
+  {
+    "id": "ben-silva",
+    "name": "Antonio Silva",
+    "clubId": "benfica",
+    "number": 3,
+    "roles": ["CB"]
+  },
+  {
+    "id": "ben-araujo",
+    "name": "Tomas Araujo",
+    "clubId": "benfica",
+    "number": 4,
+    "roles": ["CB", "RB"]
+  },
+  {
+    "id": "ben-dahl",
+    "name": "Samuel Dahl",
+    "clubId": "benfica",
+    "number": 33,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "ben-bah",
+    "name": "Alexander Bah",
+    "clubId": "benfica",
+    "number": 34,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "ben-dedic",
+    "name": "Amar Dedic",
+    "clubId": "benfica",
+    "number": 2,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "ben-florentino",
+    "name": "Florentino Luis",
+    "clubId": "benfica",
+    "number": 61,
+    "roles": ["CDM"]
+  },
+  {
+    "id": "ben-barrenechea",
+    "name": "Enzo Barrenechea",
+    "clubId": "benfica",
+    "number": 6,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "ben-aursnes",
+    "name": "Fredrik Aursnes",
+    "clubId": "benfica",
+    "number": 25,
+    "roles": ["CM", "LB"]
+  },
+  {
+    "id": "ben-barreiro",
+    "name": "Leandro Barreiro",
+    "clubId": "benfica",
+    "number": 8,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "ben-rios",
+    "name": "Richard Rios",
+    "clubId": "benfica",
+    "number": 20,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "ben-kokcu",
+    "name": "Orkun Kokcu",
+    "clubId": "benfica",
+    "number": 10,
+    "roles": ["CAM", "CM"]
+  },
+  {
+    "id": "ben-schjelderup",
+    "name": "Andreas Schjelderup",
+    "clubId": "benfica",
+    "number": 21,
+    "roles": ["LW", "LM"]
+  },
+  {
+    "id": "ben-akturkoglu",
+    "name": "Kerem Akturkoglu",
+    "clubId": "benfica",
+    "number": 7,
+    "roles": ["LW", "RW"]
+  },
+  {
+    "id": "ben-prestianni",
+    "name": "Gianluca Prestianni",
+    "clubId": "benfica",
+    "number": 11,
+    "roles": ["RW", "RM"]
+  },
+  {
+    "id": "ben-lukebakio",
+    "name": "Dodi Lukebakio",
+    "clubId": "benfica",
+    "number": 17,
+    "roles": ["RW", "ST"]
+  },
+  {
+    "id": "ben-pavlidis",
+    "name": "Vangelis Pavlidis",
+    "clubId": "benfica",
+    "number": 14,
+    "roles": ["ST"]
+  },
+  {
+    "id": "ben-ivanovic",
+    "name": "Franjo Ivanovic",
+    "clubId": "benfica",
+    "number": 9,
+    "roles": ["ST", "CF"]
   }
 ]

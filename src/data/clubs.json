@@ -154,5 +154,17 @@
       "number": "#ffffff",
       "pattern": "solid"
     }
+  },
+  {
+    "id": "benfica",
+    "name": "Benfica",
+    "shortName": "BEN",
+    "kit": {
+      "shirt": "#da020e",
+      "sleeve": "#da020e",
+      "shorts": "#ffffff",
+      "number": "#ffffff",
+      "pattern": "solid"
+    }
   }
 ]

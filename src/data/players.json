@@ -1382,6 +1382,13 @@
     "roles": ["LW", "LM"]
   },
   {
+    "id": "nap-lang",
+    "name": "Noa Lang",
+    "clubId": "napolii",
+    "number": 10,
+    "roles": ["LW", "CAM"]
+  },
+  {
     "id": "nap-politano",
     "name": "Matteo Politano",
     "clubId": "napoli",

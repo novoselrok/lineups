@@ -1455,5 +1455,139 @@
     "clubId": "chelsea",
     "number": 30,
     "roles": ["GK"]
+  },
+
+  {
+    "id": "new-pope",
+    "name": "Nick Pope",
+    "clubId": "newcastle",
+    "number": 22,
+    "roles": ["GK"]
+  },
+  {
+    "id": "new-dubravka",
+    "name": "Martin Dubravka",
+    "clubId": "newcastle",
+    "number": 32,
+    "roles": ["GK"]
+  },
+  {
+    "id": "new-botman",
+    "name": "Sven Botman",
+    "clubId": "newcastle",
+    "number": 4,
+    "roles": ["CB"]
+  },
+  {
+    "id": "new-schar",
+    "name": "Fabian Schar",
+    "clubId": "newcastle",
+    "number": 5,
+    "roles": ["CB"]
+  },
+  {
+    "id": "new-burn",
+    "name": "Dan Burn",
+    "clubId": "newcastle",
+    "number": 33,
+    "roles": ["CB", "LB"]
+  },
+  {
+    "id": "new-lascelles",
+    "name": "Jamaal Lascelles",
+    "clubId": "newcastle",
+    "number": 6,
+    "roles": ["CB"]
+  },
+  {
+    "id": "new-hall",
+    "name": "Lewis Hall",
+    "clubId": "newcastle",
+    "number": 20,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "new-trippier",
+    "name": "Kieran Trippier",
+    "clubId": "newcastle",
+    "number": 2,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "new-livramento",
+    "name": "Tino Livramento",
+    "clubId": "newcastle",
+    "number": 21,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "new-bruno",
+    "name": "Bruno Guimaraes",
+    "clubId": "newcastle",
+    "number": 39,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "new-tonali",
+    "name": "Sandro Tonali",
+    "clubId": "newcastle",
+    "number": 8,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "new-joelinton",
+    "name": "Joelinton",
+    "clubId": "newcastle",
+    "number": 7,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "new-miley",
+    "name": "Lewis Miley",
+    "clubId": "newcastle",
+    "number": 67,
+    "roles": ["CAM", "CM"]
+  },
+  {
+    "id": "new-willock",
+    "name": "Joe Willock",
+    "clubId": "newcastle",
+    "number": 28,
+    "roles": ["LM", "CM"]
+  },
+  {
+    "id": "new-murphy",
+    "name": "Jacob Murphy",
+    "clubId": "newcastle",
+    "number": 23,
+    "roles": ["RM", "RW"]
+  },
+  {
+    "id": "new-gordon",
+    "name": "Anthony Gordon",
+    "clubId": "newcastle",
+    "number": 10,
+    "roles": ["LW", "LM"]
+  },
+  {
+    "id": "new-barnes",
+    "name": "Harvey Barnes",
+    "clubId": "newcastle",
+    "number": 11,
+    "roles": ["LW", "RW"]
+  },
+  {
+    "id": "new-isak",
+    "name": "Alexander Isak",
+    "clubId": "newcastle",
+    "number": 14,
+    "roles": ["ST"]
+  },
+  {
+    "id": "new-wilson",
+    "name": "Callum Wilson",
+    "clubId": "newcastle",
+    "number": 9,
+    "roles": ["ST", "CF"]
   }
 ]

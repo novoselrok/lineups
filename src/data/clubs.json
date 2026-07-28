@@ -154,5 +154,17 @@
       "number": "#ffffff",
       "pattern": "solid"
     }
+  },
+  {
+    "id": "newcastle",
+    "name": "Newcastle United",
+    "shortName": "NEW",
+    "kit": {
+      "shirt": "#ffffff",
+      "sleeve": "#241f20",
+      "shorts": "#241f20",
+      "number": "#241f20",
+      "pattern": "stripes"
+    }
   }
 ]

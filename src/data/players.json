@@ -1483,5 +1483,131 @@
     "clubId": "chelsea",
     "number": 21,
     "roles": ["CB", "LB"]
+  },
+  {
+    "id": "mun-bayindir",
+    "name": "Altay Bayindir",
+    "clubId": "man-united",
+    "number": 1,
+    "roles": ["GK"]
+  },
+  {
+    "id": "mun-lammens",
+    "name": "Senne Lammens",
+    "clubId": "man-united",
+    "number": 31,
+    "roles": ["GK"]
+  },
+  {
+    "id": "mun-deligt",
+    "name": "Matthijs de Ligt",
+    "clubId": "man-united",
+    "number": 4,
+    "roles": ["CB"]
+  },
+  {
+    "id": "mun-yoro",
+    "name": "Leny Yoro",
+    "clubId": "man-united",
+    "number": 15,
+    "roles": ["CB"]
+  },
+  {
+    "id": "mun-martinez",
+    "name": "Lisandro Martinez",
+    "clubId": "man-united",
+    "number": 6,
+    "roles": ["CB", "LB"]
+  },
+  {
+    "id": "mun-shaw",
+    "name": "Luke Shaw",
+    "clubId": "man-united",
+    "number": 23,
+    "roles": ["LB", "CB"]
+  },
+  {
+    "id": "mun-dorgu",
+    "name": "Patrick Dorgu",
+    "clubId": "man-united",
+    "number": 13,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "mun-dalot",
+    "name": "Diogo Dalot",
+    "clubId": "man-united",
+    "number": 20,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "mun-mazraoui",
+    "name": "Noussair Mazraoui",
+    "clubId": "man-united",
+    "number": 3,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "mun-casemiro",
+    "name": "Casemiro",
+    "clubId": "man-united",
+    "number": 18,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "mun-ugarte",
+    "name": "Manuel Ugarte",
+    "clubId": "man-united",
+    "number": 25,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "mun-mainoo",
+    "name": "Kobbie Mainoo",
+    "clubId": "man-united",
+    "number": 37,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "mun-fernandes",
+    "name": "Bruno Fernandes",
+    "clubId": "man-united",
+    "number": 8,
+    "roles": ["CAM", "CM"]
+  },
+  {
+    "id": "mun-mount",
+    "name": "Mason Mount",
+    "clubId": "man-united",
+    "number": 7,
+    "roles": ["CAM", "RM"]
+  },
+  {
+    "id": "mun-diallo",
+    "name": "Amad Diallo",
+    "clubId": "man-united",
+    "number": 16,
+    "roles": ["RW", "RM"]
+  },
+  {
+    "id": "mun-mbeumo",
+    "name": "Bryan Mbeumo",
+    "clubId": "man-united",
+    "number": 19,
+    "roles": ["RW", "ST"]
+  },
+  {
+    "id": "mun-cunha",
+    "name": "Matheus Cunha",
+    "clubId": "man-united",
+    "number": 10,
+    "roles": ["LW", "CAM"]
+  },
+  {
+    "id": "mun-sesko",
+    "name": "Benjamin Sesko",
+    "clubId": "man-united",
+    "number": 30,
+    "roles": ["ST", "CF"]
   }
 ]

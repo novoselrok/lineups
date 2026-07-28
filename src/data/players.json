@@ -1456,7 +1456,13 @@
     "number": 30,
     "roles": ["GK"]
   },
-
+  {
+    "id": "che-delap",
+    "name": "Liam Delap",
+    "clubId": "chelsea",
+    "number": 9,
+    "roles": ["ST", "CF"]
+  },
   {
     "id": "ben-trubin",
     "name": "Anatoliy Trubin",
@@ -1601,7 +1607,7 @@
     "id": "ben-manu-silva",
     "name": "Manu Silva",
     "clubId": "benfica",
-    "number": 20,
+    "number": 5,
     "roles": ["CDM", "CM"]
   }
 ]

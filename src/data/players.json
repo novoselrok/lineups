@@ -1462,5 +1462,19 @@
     "clubId": "chelsea",
     "number": 9,
     "roles": ["ST", "CF"]
+  },
+  {
+    "id": "che-gittens",
+    "name": "Jamie Gittens",
+    "clubId": "chelsea",
+    "number": 10,
+    "roles": ["LW", "LM"]
+  },
+  {
+    "id": "che-buonanotte",
+    "name": "Facundo Buonanotte",
+    "clubId": "chelsea",
+    "number": 22,
+    "roles": ["CAM", "RW"]
   }
 ]

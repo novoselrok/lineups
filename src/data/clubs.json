@@ -142,5 +142,17 @@
       "number": "#ffffff",
       "pattern": "stripes"
     }
+  },
+  {
+    "id": "napoli",
+    "name": "SSC Napoli",
+    "shortName": "NAP",
+    "kit": {
+      "shirt": "#12a0d7",
+      "sleeve": "#12a0d7",
+      "shorts": "#ffffff",
+      "number": "#ffffff",
+      "pattern": "solid"
+    }
   }
 ]

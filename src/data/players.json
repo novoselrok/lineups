@@ -1287,5 +1287,126 @@
     "roles": ["RW", "RB"]
   },
   { "id": "mil-morata", "name": "Alvaro Morata", "clubId": "milan", "number": 7, "roles": ["ST"] },
-  { "id": "mil-abraham", "name": "Tammy Abraham", "clubId": "milan", "number": 90, "roles": ["ST"] }
+  {
+    "id": "mil-abraham",
+    "name": "Tammy Abraham",
+    "clubId": "milan",
+    "number": 90,
+    "roles": ["ST"]
+  },
+
+  { "id": "nap-meret", "name": "Alex Meret", "clubId": "napoli", "number": 1, "roles": ["GK"] },
+  {
+    "id": "nap-caprile",
+    "name": "Elia Caprile",
+    "clubId": "napoli",
+    "number": 25,
+    "roles": ["GK"]
+  },
+  {
+    "id": "nap-rrahmani",
+    "name": "Amir Rrahmani",
+    "clubId": "napoli",
+    "number": 13,
+    "roles": ["CB"]
+  },
+  {
+    "id": "nap-buongiorno",
+    "name": "Alessandro Buongiorno",
+    "clubId": "napoli",
+    "number": 4,
+    "roles": ["CB"]
+  },
+  { "id": "nap-juanjesus", "name": "Juan Jesus", "clubId": "napoli", "number": 5, "roles": ["CB"] },
+  {
+    "id": "nap-olivera",
+    "name": "Mathias Olivera",
+    "clubId": "napoli",
+    "number": 17,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "nap-spinazzola",
+    "name": "Leonardo Spinazzola",
+    "clubId": "napoli",
+    "number": 37,
+    "roles": ["LB", "LM"]
+  },
+  {
+    "id": "nap-dilorenzo",
+    "name": "Giovanni Di Lorenzo",
+    "clubId": "napoli",
+    "number": 22,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "nap-mazzocchi",
+    "name": "Pasquale Mazzocchi",
+    "clubId": "napoli",
+    "number": 30,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "nap-lobotka",
+    "name": "Stanislav Lobotka",
+    "clubId": "napoli",
+    "number": 68,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "nap-anguissa",
+    "name": "Frank Anguissa",
+    "clubId": "napoli",
+    "number": 99,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "nap-mctominay",
+    "name": "Scott McTominay",
+    "clubId": "napoli",
+    "number": 8,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "nap-gilmour",
+    "name": "Billy Gilmour",
+    "clubId": "napoli",
+    "number": 6,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "nap-ngonge",
+    "name": "Cyril Ngonge",
+    "clubId": "napoli",
+    "number": 18,
+    "roles": ["LW", "LM"]
+  },
+  {
+    "id": "nap-politano",
+    "name": "Matteo Politano",
+    "clubId": "napoli",
+    "number": 21,
+    "roles": ["RM", "RW"]
+  },
+  {
+    "id": "nap-neres",
+    "name": "David Neres",
+    "clubId": "napoli",
+    "number": 7,
+    "roles": ["RW", "LW"]
+  },
+  {
+    "id": "nap-lukaku",
+    "name": "Romelu Lukaku",
+    "clubId": "napoli",
+    "number": 11,
+    "roles": ["ST"]
+  },
+  {
+    "id": "nap-raspadori",
+    "name": "Giacomo Raspadori",
+    "clubId": "napoli",
+    "number": 81,
+    "roles": ["ST", "CF"]
+  }
 ]

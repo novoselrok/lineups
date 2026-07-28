@@ -1434,5 +1434,19 @@
     "clubId": "chelsea",
     "number": 38,
     "roles": ["ST"]
+  },
+  {
+    "id": "che-santos",
+    "name": "Andrey Santos",
+    "clubId": "chelsea",
+    "number": 5,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "che-essugo",
+    "name": "Dario Essugo",
+    "clubId": "chelsea",
+    "number": 16,
+    "roles": ["CDM", "CM"]
   }
 ]

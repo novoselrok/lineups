@@ -1603,5 +1603,12 @@
     "clubId": "newcastle",
     "number": 18,
     "roles": ["ST"]
+  },
+  {
+    "id": "new-krafth",
+    "name": "Emil Krafth",
+    "clubId": "newcastle-united",
+    "number": 17,
+    "roles": ["RB", "CB"]
   }
 ]

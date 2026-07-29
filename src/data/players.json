@@ -1644,5 +1644,12 @@
     "clubId": "man-united",
     "number": 12,
     "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "mun-kone",
+    "name": "Sekou Kone",
+    "clubId": "man-united",
+    "number": 43,
+    "roles": ["CM", "CDM"]
   }
 ]

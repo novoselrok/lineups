@@ -154,5 +154,17 @@
       "number": "#ffffff",
       "pattern": "solid"
     }
+  },
+  {
+    "id": "roma",
+    "name": "AS Roma",
+    "shortName": "ROM",
+    "kit": {
+      "shirt": "#8e1f2f",
+      "sleeve": "#f0bc42",
+      "shorts": "#ffffff",
+      "number": "#f0bc42",
+      "pattern": "solid"
+    }
   }
 ]

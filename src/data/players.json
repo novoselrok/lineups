@@ -1483,5 +1483,120 @@
     "clubId": "chelsea",
     "number": 21,
     "roles": ["CB", "LB"]
+  },
+
+  { "id": "rom-svilar", "name": "Mile Svilar", "clubId": "roma", "number": 1, "roles": ["GK"] },
+  {
+    "id": "rom-gollini",
+    "name": "Pierluigi Gollini",
+    "clubId": "roma",
+    "number": 99,
+    "roles": ["GK"]
+  },
+  {
+    "id": "rom-mancini",
+    "name": "Gianluca Mancini",
+    "clubId": "roma",
+    "number": 23,
+    "roles": ["CB"]
+  },
+  {
+    "id": "rom-ndicka",
+    "name": "Evan Ndicka",
+    "clubId": "roma",
+    "number": 5,
+    "roles": ["CB", "LB"]
+  },
+  {
+    "id": "rom-ghilardi",
+    "name": "Daniele Ghilardi",
+    "clubId": "roma",
+    "number": 24,
+    "roles": ["CB"]
+  },
+  {
+    "id": "rom-rensch",
+    "name": "Devyne Rensch",
+    "clubId": "roma",
+    "number": 2,
+    "roles": ["RB", "CB"]
+  },
+  {
+    "id": "rom-angelino",
+    "name": "Angelino",
+    "clubId": "roma",
+    "number": 3,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "rom-celik",
+    "name": "Zeki Celik",
+    "clubId": "roma",
+    "number": 19,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "rom-cristante",
+    "name": "Bryan Cristante",
+    "clubId": "roma",
+    "number": 4,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "rom-kone",
+    "name": "Manu Kone",
+    "clubId": "roma",
+    "number": 17,
+    "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "rom-pisilli",
+    "name": "Niccolo Pisilli",
+    "clubId": "roma",
+    "number": 61,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "rom-pellegrini",
+    "name": "Lorenzo Pellegrini",
+    "clubId": "roma",
+    "number": 7,
+    "roles": ["CAM", "CM"]
+  },
+  {
+    "id": "rom-dybala",
+    "name": "Paulo Dybala",
+    "clubId": "roma",
+    "number": 21,
+    "roles": ["CAM", "RW"]
+  },
+  {
+    "id": "rom-baldanzi",
+    "name": "Tommaso Baldanzi",
+    "clubId": "roma",
+    "number": 35,
+    "roles": ["LM", "CAM"]
+  },
+  {
+    "id": "rom-bailey",
+    "name": "Leon Bailey",
+    "clubId": "roma",
+    "number": 31,
+    "roles": ["RW", "RM"]
+  },
+  {
+    "id": "rom-soule",
+    "name": "Matias Soule",
+    "clubId": "roma",
+    "number": 18,
+    "roles": ["LW", "RW"]
+  },
+  { "id": "rom-dovbyk", "name": "Artem Dovbyk", "clubId": "roma", "number": 11, "roles": ["ST"] },
+  {
+    "id": "rom-ferguson",
+    "name": "Evan Ferguson",
+    "clubId": "roma",
+    "number": 9,
+    "roles": ["ST", "CF"]
   }
 ]

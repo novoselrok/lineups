@@ -1651,5 +1651,12 @@
     "clubId": "man-united",
     "number": 43,
     "roles": ["CM", "CDM"]
+  },
+  {
+    "id": "mun-ashby",
+    "name": "Reuben Ashby",
+    "clubId": "man-united",
+    "number": 17,
+    "roles": ["LW", "LM"]
   }
 ]

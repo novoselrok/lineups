@@ -1637,5 +1637,12 @@
     "clubId": "man-united",
     "number": 11,
     "roles": ["ST", "CF"]
+  },
+  {
+    "id": "mun-malacia",
+    "name": "Tyrell Malacia",
+    "clubId": "man-united",
+    "number": 12,
+    "roles": ["LB", "LWB"]
   }
 ]

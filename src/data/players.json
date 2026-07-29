@@ -1609,5 +1609,33 @@
     "clubId": "man-united",
     "number": 30,
     "roles": ["ST", "CF"]
+  },
+  {
+    "id": "mun-maguire",
+    "name": "Harry Maguire",
+    "clubId": "man-united",
+    "number": 5,
+    "roles": ["CB"]
+  },
+  {
+    "id": "mun-heaven",
+    "name": "Ayden Heaven",
+    "clubId": "man-united",
+    "number": 26,
+    "roles": ["CB", "LB"]
+  },
+  {
+    "id": "mun-collyer",
+    "name": "Toby Collyer",
+    "clubId": "man-united",
+    "number": 34,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "mun-zirkzee",
+    "name": "Joshua Zirkzee",
+    "clubId": "man-united",
+    "number": 11,
+    "roles": ["ST", "CF"]
   }
 ]

@@ -1607,14 +1607,14 @@
     "id": "avl-watkins",
     "name": "Ollie Watkins",
     "clubId": "aston-villa",
-    "number": 11,
+    "number": 10,
     "roles": ["ST", "CF"]
   },
   {
     "id": "avl-guessand",
     "name": "Evann Guessand",
     "clubId": "aston-villa",
-    "number": 9,
+    "number": 8,
     "roles": ["ST", "LW"]
   }
 ]

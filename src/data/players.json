@@ -1565,7 +1565,7 @@
     "id": "avl-tielemans",
     "name": "Youri Tielemans",
     "clubId": "aston-villa",
-    "number": 8,
+    "number": 6,
     "roles": ["CM", "CAM"]
   },
   {
@@ -1579,7 +1579,7 @@
     "id": "avl-buendia",
     "name": "Emiliano Buendia",
     "clubId": "aston-villa",
-    "number": 10,
+    "number": 11,
     "roles": ["CAM", "RM", "RW"]
   },
   {

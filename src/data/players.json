@@ -1483,5 +1483,12 @@
     "clubId": "chelsea",
     "number": 21,
     "roles": ["CB", "LB"]
+  },
+  {
+    "id": "che-acheampong",
+    "name": "Josh Acheampong",
+    "clubId": "chelsea",
+    "number": 34,
+    "roles": ["CB", "RB"]
   }
 ]

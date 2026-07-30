@@ -1490,5 +1490,131 @@
     "clubId": "chelsea",
     "number": 34,
     "roles": ["CB", "RB"]
+  },
+  {
+    "id": "avl-martinez",
+    "name": "Emiliano Martinez",
+    "clubId": "aston-villa",
+    "number": 1,
+    "roles": ["GK"]
+  },
+  {
+    "id": "avl-bizot",
+    "name": "Marco Bizot",
+    "clubId": "aston-villa",
+    "number": 25,
+    "roles": ["GK"]
+  },
+  {
+    "id": "avl-konsa",
+    "name": "Ezri Konsa",
+    "clubId": "aston-villa",
+    "number": 4,
+    "roles": ["CB", "RB"]
+  },
+  {
+    "id": "avl-torres",
+    "name": "Pau Torres",
+    "clubId": "aston-villa",
+    "number": 14,
+    "roles": ["CB", "LB"]
+  },
+  {
+    "id": "avl-mings",
+    "name": "Tyrone Mings",
+    "clubId": "aston-villa",
+    "number": 5,
+    "roles": ["CB"]
+  },
+  {
+    "id": "avl-cash",
+    "name": "Matty Cash",
+    "clubId": "aston-villa",
+    "number": 2,
+    "roles": ["RB", "RWB"]
+  },
+  {
+    "id": "avl-digne",
+    "name": "Lucas Digne",
+    "clubId": "aston-villa",
+    "number": 12,
+    "roles": ["LB", "LWB"]
+  },
+  {
+    "id": "avl-maatsen",
+    "name": "Ian Maatsen",
+    "clubId": "aston-villa",
+    "number": 22,
+    "roles": ["LB", "LWB", "LM"]
+  },
+  {
+    "id": "avl-kamara",
+    "name": "Boubacar Kamara",
+    "clubId": "aston-villa",
+    "number": 44,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "avl-onana",
+    "name": "Amadou Onana",
+    "clubId": "aston-villa",
+    "number": 24,
+    "roles": ["CDM", "CM"]
+  },
+  {
+    "id": "avl-tielemans",
+    "name": "Youri Tielemans",
+    "clubId": "aston-villa",
+    "number": 8,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "avl-mcginn",
+    "name": "John McGinn",
+    "clubId": "aston-villa",
+    "number": 7,
+    "roles": ["CM", "CAM"]
+  },
+  {
+    "id": "avl-buendia",
+    "name": "Emiliano Buendia",
+    "clubId": "aston-villa",
+    "number": 10,
+    "roles": ["CAM", "RM", "RW"]
+  },
+  {
+    "id": "avl-rogers",
+    "name": "Morgan Rogers",
+    "clubId": "aston-villa",
+    "number": 27,
+    "roles": ["CAM", "LW", "CF"]
+  },
+  {
+    "id": "avl-sancho",
+    "name": "Jadon Sancho",
+    "clubId": "aston-villa",
+    "number": 23,
+    "roles": ["LW", "RW"]
+  },
+  {
+    "id": "avl-malen",
+    "name": "Donyell Malen",
+    "clubId": "aston-villa",
+    "number": 17,
+    "roles": ["RW", "ST"]
+  },
+  {
+    "id": "avl-watkins",
+    "name": "Ollie Watkins",
+    "clubId": "aston-villa",
+    "number": 11,
+    "roles": ["ST", "CF"]
+  },
+  {
+    "id": "avl-guessand",
+    "name": "Evann Guessand",
+    "clubId": "aston-villa",
+    "number": 9,
+    "roles": ["ST", "LW"]
   }
 ]

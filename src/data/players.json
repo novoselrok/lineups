@@ -1484,6 +1484,13 @@
     "number": 21,
     "roles": ["CB", "LB"]
   },
+  {
+    "id": "che-acheampong",
+    "name": "Josh Acheampong",
+    "clubId": "chelsea",
+    "number": 34,
+    "roles": ["CB", "RB"]
+  },
 
   { "id": "rom-svilar", "name": "Mile Svilar", "clubId": "roma", "number": 1, "roles": ["GK"] },
   {

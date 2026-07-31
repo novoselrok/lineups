@@ -1616,5 +1616,12 @@
     "clubId": "aston-villa",
     "number": 8,
     "roles": ["ST", "LW"]
+  },
+  {
+    "id": "avl-ashworth",
+    "name": "Freddie Ashworth",
+    "clubId": "aston-villa",
+    "number": 19,
+    "roles": ["CM", "CDM"]
   }
 ]
